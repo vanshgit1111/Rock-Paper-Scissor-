@@ -1,4 +1,4 @@
-Rock paper scissor game live working
+This is my project through which i learn multiple project 
 
 # React + Vite
 
